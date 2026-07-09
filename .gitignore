@@ -1,0 +1,11 @@
+# Ignore local overlays with personal data
+*personal*.md
+PROFILE.md
+*.pdf
+
+# Ignore OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
